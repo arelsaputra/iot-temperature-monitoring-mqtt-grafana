@@ -1,6 +1,3 @@
-# iot-temperature-monitoring-mqtt-grafana
-Real-time IoT temperature monitoring using MQTT (HiveMQ), Telegraf, InfluxDB, and Grafana.
-
 # IoT Temperature Monitoring - MQTT to Grafana
 
 Proyek ini bertujuan untuk memonitor suhu secara real-time dari sensor IoT yang dikirim melalui protokol MQTT, dikumpulkan oleh Telegraf, disimpan di InfluxDB, dan divisualisasikan menggunakan Grafana.
